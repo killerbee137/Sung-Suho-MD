@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "suho~OYVyXIDa#9dG3Yf08IAhQEY1wls_lGsWNRV7TNafYhydMSxKia4c",
     // add your Session Id make sure it starts with suho~
 
     PREFIX: process.env.PREFIX || ".",
@@ -76,10 +76,10 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "27813374457",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "254112363273",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "ᴍʀ sᴜɴɢ",
+    OWNER_NAME: process.env.OWNER_NAME || "CCc💔",
     // add bot owner name
 
     DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ sᴜɴɢ sᴜʜᴏ*",
@@ -115,7 +115,7 @@ module.exports = {
     READ_CMD: process.env.READ_CMD || "false",
     // true if want mark commands as read  
 
-    DEV: process.env.DEV || "27813374457",
+    DEV: process.env.DEV || "254112363173",
     // replace with your whatsapp number  
 
     ANTI_VV: process.env.ANTI_VV || "true",
